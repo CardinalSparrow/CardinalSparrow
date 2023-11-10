@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm John Offia-chukwu</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h2 align="center">Hello there. Checkout my <a href="https://cardinal-dev.netlify.app/" target= "_blank">Portfolio</h2>
+
+<!-- Animation Typing -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+John+Offia-chukwu.;I'm+a+Frontend+Developer"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cardinalsparrow&label=Profile%20views&color=0e75b6&style=flat" alt="cardinalsparrow" /> </p>
 
@@ -7,9 +12,21 @@
 
 <p align="left"> <a href="https://twitter.com/cardinalsparrow" target="blank"><img src="https://img.shields.io/twitter/follow/cardinalsparrow?logo=twitter&style=for-the-badge" alt="cardinalsparrow" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+h2>⚡️ About Me</h2>
 
-- 💬 Ask me about **JavaScript**
+<ul>
+  <li>✨ I’m John Offia-chukwu, alias Cardinal </li>
+  
+  <li>👨‍💻 I am a frontend developer dedicated to creating a beautiful blend between design and functionality</li>
+  
+  <li>🔭  I bring my strong 'can do' attitude, disciplined problem-solving, collaborative style, and strong communication skills.</a>
+  
+  <li>💬 I'm passionate about building sustainable tech communities, especially in the Open-Source space.</li>
+  
+  <li>🎉🌱 Fun Fact : I love contributing to open source projects</li>
+  
+  <li> Checout my portfolio <a href="https://cardinal-dev.netlify.app/">Portfolio</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
