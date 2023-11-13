@@ -23,7 +23,7 @@
   
   <li>💬 I'm passionate about building sustainable tech communities, especially in the Open-Source space.</li>
   
-  <li>🎉🌱 Fun Fact : I love contributing to open source projects</li>
+  <li>🌱 Fun Fact : I love contributing to open source projects</li>
   
   <li> Checout my portfolio <a href="https://cardinal-dev.netlify.app/">Portfolio</li>
 </ul>
