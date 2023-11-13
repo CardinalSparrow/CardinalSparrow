@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/cardinalsparrow" target="blank"><img src="https://img.shields.io/twitter/follow/cardinalsparrow?logo=twitter&style=for-the-badge" alt="cardinalsparrow" /></a> </p>
 
-<h2>⚡️ About Me </h2>
+<h2>⚡️⚡️ About Me </h2>
 
 <ul>
   <li>✨ I’m John Offia-chukwu, alias Cardinal </li>
