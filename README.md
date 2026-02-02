@@ -1,113 +1,78 @@
-<h1 align="center">
-  John Offia-Chukwu 👋
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Frontend Developer • MERN Stack Engineer • Open-Source Contributor
-</h3>
+# John Offia-Chukwu 👋
 
-<p align="center">
-  I build scalable, high-performance web applications with a strong focus on 
-  <strong>clarity, usability, and system thinking</strong>.
-</p>
+### Frontend Developer • MERN Stack Engineer • Open-Source Contributor
 
-<p align="center">
-  <a href="https://cardinal-dev.netlify.app/" target="_blank">
-    🌐 Portfolio
-  </a>
-  ·
-  <a href="https://www.linkedin.com/in/john-offia-chukwu-26a9503a1" target="_blank">
-    LinkedIn
-  </a>
-  ·
-  <a href="https://twitter.com/cardinalsparrow" target="_blank">
-    Twitter
-  </a>
-</p>
+I build scalable, high-performance web and mobile applications with a strong focus on **clarity, usability, and system thinking**.
 
-<!-- Typing Animation (keywords matter here) -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&width=700&lines=Frontend+Developer+(React+%7C+TypeScript);MERN+Stack+Engineer;Building+Scalable+and+Maintainable+Systems;Open+Source+Contributor;Tech+for+Impact+and+Fintech+Enthusiast" 
-    alt="Typing SVG"
-  />
-</p>
+[🌐 Portfolio](https://cardinal-dev.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/john-offia-chukwu-26a9503a1) • [Twitter](https://twitter.com/cardinalsparrow)
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=cardinalsparrow&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="profile views" 
-  />
-</p>
+</div>
 
 ---
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
-<ul>
-  <li>👨‍💻 <strong>Meta-Certified Frontend Developer</strong> with MERN stack experience</li>
-  <li>⚛️ Strong focus on <strong>React, TypeScript, JavaScript, and modern UI architecture</strong></li>
-  <li>🧠 I care deeply about <strong>understanding systems</strong>, not just shipping features</li>
-  <li>🔍 Experienced in building, debugging, and scaling real-world applications</li>
-  <li>🤝 Collaborative engineer with strong communication and product thinking</li>
-  <li>🌍 Interested in <strong>fintech, infrastructure, developer tools, and social impact</strong></li>
-  <li>🌱 Active <strong>open-source contributor</strong> and technical writer</li>
-</ul>
+- 👨‍💻 Meta-Certified Frontend Developer with MERN stack experience
+- ⚛️ Focused on React, TypeScript, JavaScript, and modern UI architecture
+- 🧠 Strong believer in deep system understanding over surface-level fluency
+- 🌍 Interested in fintech, infrastructure, and social-impact technology
+- 🌱 Active open-source contributor and technical writer
 
-<p>
-  👉 Check my work: 
-  <a href="https://cardinal-dev.netlify.app/" target="_blank">
-    https://cardinal-dev.netlify.app
-  </a>
-</p>
+---
 
+## 🛠 Tech Stack
 
-<h2>🛠 Tech Stack</h2>
+**Frontend**
+- Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- Frameworks/Libraries: React, Redux, Tailwind CSS
+- UI/Design: Figma, Responsive Design
 
-<p align="left">
-  <!-- Core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+**Backend**
+- Runtime: Node.js
+- Framework: Express.js
+- Database: MongoDB
 
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+**Tools & Workflow**
+- Version Control: Git, GitHub
+- Development: VS Code, npm/yarn
+- Other: RESTful APIs, JWT Authentication
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+---
 
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
+## 💼 What I'm Working On
 
+- 🔨 Building modern web applications with React and TypeScript
+- 📚 Contributing to open-source projects
+- ✍️ Writing technical articles and tutorials
+- 🌱 Learning advanced system design patterns
 
-<h2>📊 GitHub Activity</h2>
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardinalsparrow&layout=compact&langs_count=8" />
-</p>
+## 📈 GitHub Activity
+```text
+⭐ Total Stars Earned
+🔧 Active Repositories
+💻 Contributions this year
+```
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cardinalsparrow&show_icons=true&include_all_commits=true" />
-</p>
+## 🤝 Let's Connect
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cardinalsparrow" />
-</p>
+I'm always open to:
+- 💡 Collaborating on React/MERN stack projects
+- 🌟 Contributing to open-source initiatives
+- 💬 Discussing frontend architecture and best practices
+- 🚀 New opportunities and interesting challenges
 
+📫 **Reach out:** [LinkedIn](https://linkedin.com/in/john-offia-chukwu) | [Portfolio](https://cardinal-dev.netlify.app/) | [Twitter](https://twitter.com/cardinalsparrow)
 
-<h2>📌 What I’m Focused On</h2>
+---
 
-<ul>
-  <li>Building production-ready React and MERN applications</li>
-  <li>Writing clean, maintainable, and scalable frontend architecture</li>
-  <li>Contributing to meaningful open-source projects</li>
-  <li>Exploring fintech infrastructure and developer platforms</li>
-</ul>
+<div align="center">
+
+**Thanks for visiting my profile!** 🙏
+
+*Feel free to explore my repositories and reach out if you'd like to collaborate.*
+
+</div>
